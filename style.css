@@ -7,9 +7,8 @@
 	padding: 0;
 }
 .header h1{
-	width: 75%;
-	margin: auto;
 	color: brown;
+	font-family:FrederickatheGreat;
 }
 .container{
 	width: 75%;
