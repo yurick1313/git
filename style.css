@@ -8,7 +8,7 @@
 }
 .header h1{
 	color: brown;
-	font-family:FrederickatheGreat;
+	font-family:Fredericka;
 }
 .container{
 	width: 75%;
@@ -18,4 +18,24 @@
 	font-size: 10px;
 	color: darkblue;
 	margin: -10px;
+}
+.navbar{
+	background-color: black;
+}
+.navbar-nav ul li{
+	color: white;
+	list-style-type: none;
+}
+.navbar-nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+.navbar-nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+	text-transform: uppercase;
+}
+.active{
+	background-color: brown;
 }
