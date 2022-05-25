@@ -2,3 +2,20 @@
 	font-family:Fredericka;
 	src: url(./font/FrederickatheGreat-Regular.ttf);
 }
+*{
+	margin: 0;
+	padding: 0;
+}
+.header h1{
+	width: 75%;
+	margin: auto;
+}
+.container{
+	width: 75%;
+	margin:auto;
+}
+.header span{
+	font-size: 10px;
+	color: darkblue;
+	margin: -10px;
+}
