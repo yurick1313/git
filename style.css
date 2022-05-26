@@ -17,7 +17,8 @@
 .header span{
 	font-size: 10px;
 	color: darkblue;
-	margin: -10px;
+	margin-left: -10px;
+	text-transform: lowercase;
 }
 .navbar{
 	background-color: black;
@@ -44,6 +45,7 @@
 }
 .header-user{
 	float: right;
+	
 }
 .header-container{
 	clear: both;
@@ -56,11 +58,13 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .login{
 	background:transparent;
 	border-color: transparent;
+	padding: 10px;
 }
 .contact{
 	background: red;
 	color: white;
 	border-color:red;
+	padding: 15px;
 }
 .header{
 	padding: 10px 0;
