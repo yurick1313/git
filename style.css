@@ -39,3 +39,33 @@
 .active{
 	background-color: brown;
 }
+.heder-logo{
+	float: left;
+}
+.header-user{
+	float: right;
+}
+.header-container{
+	clear: both;
+	display:table;
+}
+.header-user button{
+text-transform: uppercase;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+	background:transparent;
+	border-color: transparent;
+}
+.contact{
+	background: red;
+	color: white;
+	border-color:red;
+}
+.header{
+	padding: 10px 0;
+}
+.heder-logo h1{
+	text-transform: uppercase;
+}
+
