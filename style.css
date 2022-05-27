@@ -72,4 +72,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .heder-logo h1{
 	text-transform: uppercase;
 }
-
+.content-container container{
+	width: 75%;
+	margin: auto;
+}
