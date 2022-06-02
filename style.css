@@ -113,7 +113,22 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .galley-singl{
 	width: 16%;
+	display: inline-block;
+	float: left;
+}
+.gallery-container{
+	clear: both;
+	display: table;
 }
 .singl-img img{
 	width: 100%;
+	height: 100%;
+}
+.singl-img{
+	height: 100px;
+	margin-right: 15px;
+}
+.gallery-description{
+	margin-right: 15px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
